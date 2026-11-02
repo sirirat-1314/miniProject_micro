@@ -1,0 +1,14 @@
+# Build artifacts and local test dependencies
+Debug/
+Release/
+.settings/
+.metadata/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.zip
+.deps/
+__pycache__/

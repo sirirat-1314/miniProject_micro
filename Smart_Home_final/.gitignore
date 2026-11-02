@@ -1,0 +1,7 @@
+Debug/
+Release/
+Firmware/*.o
+tests/build/
+tests/.deps/
+__pycache__/
+*.log
